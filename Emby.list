@@ -9,6 +9,8 @@
 IP-CIDR,5.45.109.91/32,Emby
 IP-CIDR,140.238.31.45/32,Emby
 HOST,581658.best,Emby
+HOST,embyplus.org,Emby
+HOST,misakaf.org,Emby
 HOST,film.reddust.link,Emby
 HOST,misty.cx,Emby
 HOST,emby.host,Emby
