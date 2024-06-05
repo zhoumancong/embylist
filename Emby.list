@@ -6,18 +6,18 @@
 # HOST-KEYWORD: 
 # HOST-SUFFIX: 
 # TOTAL: 
-DOMAIN-SUFFIX,581658.best
-DOMAIN,film.reddust.link
-DOMAIN,misty.cx
-DOMAIN,emby.host
-DOMAIN,emby.aca.best
-DOMAIN,bili.bili.rip
-DOMAIN,789.123456.al
-DOMAIN,cf.imetyou.tp
-DOMAIN,cf.xmsl.org
-DOMAIN,emby-us-v4.mius.uk
-DOMAIN,emby-fr-v6.mius.uk
-DOMAIN,porn.aca.best
-IP-CIDR,178.63.247.194/32
-IP-CIDR,89.58.18.111/32
-IP-CIDR,113.133.183.171/32
+DOMAIN,581658.best,Emby
+DOMAIN,film.reddust.link,Emby
+DOMAIN,misty.cx,Emby
+DOMAIN,emby.host,Emby
+DOMAIN,emby.aca.best,Emby
+DOMAIN,bili.bili.rip,Emby
+DOMAIN,789.123456.al,Emby
+DOMAIN,cf.imetyou.tp,Emby
+DOMAIN,cf.xmsl.org,Emby
+DOMAIN,emby-us-v4.mius.uk,Emby
+DOMAIN,emby-fr-v6.mius.uk,Emby
+DOMAIN,porn.aca.best,Emby
+IP-CIDR,178.63.247.194/32,Emby
+IP-CIDR,89.58.18.111/32,Emby
+IP-CIDR,113.133.183.171/32,Emby
