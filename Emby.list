@@ -6,6 +6,7 @@
 # HOST-KEYWORD: 
 # HOST-SUFFIX: 
 # TOTAL: 
+IP-CIDR,5.45.109.91/32,Emby
 HOST,581658.best,Emby
 HOST,film.reddust.link,Emby
 HOST,misty.cx,Emby
