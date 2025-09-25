@@ -1,4 +1,3 @@
-# title vk ads list
 host-suffix,bit.ly,reject
 host-suffix,gg.gg,reject
 host-suffix,clck.ru,reject
@@ -29,4 +28,159 @@ host-suffix,prfl.me,reject
 host-suffix,adf.ly,reject
 host-suffix,shorturl.at,reject
 host-suffix,rb.gy,reject
-host-suffix,gestyy.com,reject
+host-suffix,gestyy.com
+host-keyword,розыгрыш,reject
+host-keyword,разыгрываем,reject
+host-keyword,достанется,reject
+host-keyword,подарит,reject
+host-keyword,выиграй,reject
+host-keyword,дарим,reject
+host-keyword,вступи в группу,reject
+host-keyword,делать репост,reject
+host-keyword,делай репост,reject
+host-keyword,сделает репост,reject
+host-keyword,поделиться этой записью,reject
+host-keyword,случайному подписчику,reject
+host-keyword,случайному участнику,reject
+host-keyword,подписчиком,reject
+host-keyword,присоединяйтесь,reject
+host-keyword,вступайте,reject
+host-keyword,вступай скорее,reject
+host-keyword,регистрируйтесь,reject
+host-keyword,регистрируйся,reject
+host-keyword,пиши боту,reject
+host-keyword,пиши нашему боту,reject
+host-keyword,оформи кредит,reject
+host-keyword,оформите кредит,reject
+host-keyword,love2love.ru,reject
+host-keyword,василий ногинов,reject
+host-keyword,евгений гурьев,reject
+host-keyword,свой знак,reject
+host-keyword,на свой знак,reject
+host-keyword,участвовать,reject
+host-keyword,цена всего,reject
+host-keyword,заказать,reject
+host-keyword,titan gel,reject
+host-keyword,ждем вас в группе,reject
+host-keyword,iq option,reject
+host-keyword,надежный брокер,reject
+host-keyword,тихоня превратится,reject
+host-keyword,закажи,reject
+host-keyword,успей заказать,reject
+host-keyword,успей подать заявку,reject
+host-keyword,успей подписаться,reject
+host-keyword,оформи карту,reject
+host-keyword,оформите карту,reject
+host-keyword,антикризисная цена,reject
+host-keyword,элитные часы,reject
+host-keyword,стильные часы,reject
+host-keyword,cпocоб зaрaбoтать,reject
+host-keyword,carwallet,reject
+host-keyword,daniel wellington,reject
+host-keyword,ксб 55,reject
+host-keyword,таблеток не нужно,reject
+host-keyword,подгибаться коленки,reject
+host-keyword,смазливая внешность,reject
+host-keyword,rendez vous,reject
+host-keyword,в интернете зарабатывать,reject
+host-keyword,ставки на спорт,reject
+host-keyword,ixbet,reject
+host-keyword,1xbet,reject
+host-keyword,1xставка,reject
+host-keyword,1x ставка,reject
+host-keyword,вoлoсатые бикини,reject
+host-keyword,любишь ли ты вулкан,reject
+host-keyword,вулкан ставку,reject
+host-keyword,заказ полностью анонимный,reject
+host-keyword,познакомься с девушкой,reject
+host-keyword,рублей в неделю,reject
+host-keyword,крутое приложение,reject
+host-keyword,рекламный,reject
+host-keyword,в источник,reject
+host-keyword,в закрепленном комментарии,reject
+host-keyword,в закрепе,reject
+host-keyword,посмотреть фулл,reject
+host-keyword,посмотреть источник,reject
+host-keyword,тык 👉,reject
+host-keyword,тык👉,reject
+host-keyword,👉https://,reject
+host-keyword,👉http://,reject
+host-keyword,смотри источник,reject
+host-keyword,промокод,reject
+host-keyword,инвестиции,reject
+host-keyword,appscent,reject
+host-keyword,app-cent,reject
+host-keyword,appcent,reject
+host-keyword,bitmain,reject
+host-keyword,cents-apps,reject
+host-keyword,cent-app,reject
+host-keyword,centapp,reject
+host-keyword,minerx,reject
+host-keyword,go.2038.pro,reject
+host-keyword,skillbox дарит,reject
+host-keyword,erid:,reject
+host-keyword,erid=,reject
+host-keyword,👉 узнай тут,reject
+host-keyword,в комментариях,reject
+host-keyword,в коментариях,reject
+host-keyword,узнать 👉,reject
+host-keyword,в комменты,reject
+host-keyword,в комментах,reject
+host-keyword,в к0мментах,reject
+host-keyword,смотри комментарии,reject
+host-keyword,комментарии👇,reject
+host-keyword,в коммах,reject
+host-keyword,в к0ммах,reject
+host-keyword,в комах,reject
+host-keyword,в к0мах,reject
+host-keyword,app-cash,reject
+host-keyword,apps-b,reject
+host-keyword,apps-c,reject
+host-keyword,bonus-a,reject
+host-keyword,bonusapp,reject
+host-keyword,appcash,reject
+host-keyword,appscash,reject
+host-keyword,appsxcash,reject
+host-keyword,cash-b,reject
+host-keyword,cash-a,reject
+host-keyword,cashy-b,reject
+host-keyword,boxcash,reject
+host-keyword,money-b,reject
+host-keyword,box-c,reject
+host-keyword,appy-c,reject
+host-keyword,cashboost,reject
+host-keyword,cashs-b,reject
+host-keyword,реклама. чоу дпо,reject
+host-keyword,реклама. ооо,reject
+host-keyword,реклама. ип,reject
+host-keyword,реклама: чоу дпо,reject
+host-keyword,реклама: ооо,reject
+host-keyword,реклама: ип,reject
+host-keyword,реклама чоу дпо,reject
+host-keyword,реклама ооо,reject
+host-keyword,реклама ип,reject
+host-keyword,за донат меллстроя,reject
+host-keyword,переходи и играй,reject
+host-keyword,переходите по ссылке,reject
+host-keyword,людей со всей страны уже давно играют здесь,reject
+host-keyword,тут 👉,reject
+host-keyword,Ссылка 👉,reject
+host-keyword,тут👉,reject
+host-keyword,₽ с wb,reject
+host-keyword,р с wb,reject
+host-keyword,с wb за,reject
+host-keyword,артикул тут - https://vk.cc,reject
+host-keyword,артикулы тут - https://vk.cc,reject
+host-keyword,артикул - https://vk.cc,reject
+host-keyword,артикулы - https://vk.cc,reject
+host-keyword,артикул тут (,reject
+host-keyword,артикулы тут (,reject
+host-keyword,артикул (,reject
+host-keyword,артикулы (,reject
+host-keyword,₽ с wв,reject
+host-keyword,stepnsolano,reject
+host-keyword,ссылка вот: https://,reject
+host-keyword,ссылку на сервис,reject
+host-keyword,рекомендуешь сервис другим,reject
+host-keyword,slts.xyz/?src=,reject
+host-keyword,stepnsolano.biz/?src=,reject
