@@ -28,7 +28,7 @@ host-suffix,prfl.me,reject
 host-suffix,adf.ly,reject
 host-suffix,shorturl.at,reject
 host-suffix,rb.gy,reject
-host-suffix,gestyy.com
+host-suffix,gestyy.com,reject
 host-keyword,розыгрыш,reject
 host-keyword,разыгрываем,reject
 host-keyword,достанется,reject
